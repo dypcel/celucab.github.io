@@ -7,8 +7,8 @@
 			<launch lang="und">story.html</launch>
 		</activity>
 		<activity id="http://6f0Sx8LPaOC_course_id/5YM4jnEnFJ2" type="http://adlnet.gov/expapi/activities/module">
-			<name lang="und">Percepción y atención como proceso básico de intercambio con el mundo exterior</name>
-			<description lang="und">Percepción y atención como proceso básico de intercambio con el mundo exterior</description>
+			<name lang="und">Bienvenida</name>
+			<description lang="und">Bienvenida</description>
 		</activity>
 		<activity id="http://6f0Sx8LPaOC_course_id/6FGWoAXn2Kg" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Objetivo</name>
@@ -297,7 +297,7 @@
 			<description lang="und">La atención involuntaria y voluntaria hacen referencia a:</description>
 			<interactionType>choice</interactionType>
 			<correctResponsePatterns>
-				<correctResponsePattern>choice_6agzUujHJVi</correctResponsePattern>
+				<correctResponsePattern>choice_67AtUWBpqMR</correctResponsePattern>
 			</correctResponsePatterns>
 			<choices>
 				<component>
@@ -309,16 +309,16 @@
 					<description lang="und">El estado de alerta y a la atención que la persona presta libremente</description>
 				</component>
 				<component>
-					<id>choice_67AtUWBpqMR</id>
-					<description lang="und">Ninguna de las anteriores</description>
-				</component>
-				<component>
 					<id>choice_6Y3F0fo7R18</id>
 					<description lang="und">La atención selectiva y la atención a voluntad</description>
 				</component>
 				<component>
 					<id>choice_6agzUujHJVi</id>
 					<description lang="und">Todas las anteriores</description>
+				</component>
+				<component>
+					<id>choice_67AtUWBpqMR</id>
+					<description lang="und">Ninguna de las anteriores</description>
 				</component>
 			</choices>
 		</activity>
