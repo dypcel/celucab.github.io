@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://6NzbfXtr07d_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">m1u1</name>
+			<description lang="und" />
+			<launch lang="und">story.html</launch>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/6D90p8RzcVA" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Fundamentos teóricos y antecedentes de la justicia restaurativa</name>
+			<description lang="und">Fundamentos teóricos y antecedentes de la justicia restaurativa</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/5t1iuMhuGEf" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Objetivo</name>
+			<description lang="und">Objetivo</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/6OYxlpHDhZz" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Objetivos 1</name>
+			<description lang="und">Objetivos 1</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/6LXOK63pmim" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introducción</name>
+			<description lang="und">Introducción</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/6HSzlOrRX5T" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Paradigma de la justicia restaurativa</name>
+			<description lang="und">Paradigma de la justicia restaurativa</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/6bLkB79FwIU" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Enfoque convencional de la justicia</name>
+			<description lang="und">Enfoque convencional de la justicia</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/6EfGGtDfABP" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Reflexiona</name>
+			<description lang="und">Reflexiona</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/6LIDUcpxu25" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Para finalizar</name>
+			<description lang="und">Para finalizar</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/5YpDmFCYxRK" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Resumen</name>
+			<description lang="und">Resumen</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/6VHkCJmIMAk" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Referencias</name>
+			<description lang="und">Referencias</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/6jFTFsQyP7R" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Cierre</name>
+			<description lang="und">Cierre</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/5gRGBxV8x4c" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividades</name>
+			<description lang="und">Actividades</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/66HUY1eMh3r" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad 1</name>
+			<description lang="und">Actividad 1</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/66HUY1eMh3r/5XGCjPcufzf" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Arrastrar y soltar</name>
+			<description lang="und">Arrastrar y soltar</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_685knDfEseI[.]choice_68BmW0DDf9S</correctResponsePattern>
+				<correctResponsePattern>statement_6BmuVM38up8[.]choice_5X3S8Cs0C4o</correctResponsePattern>
+				<correctResponsePattern>statement_63Ai0kcwRSR[.]choice_5WcErC4xovn</correctResponsePattern>
+				<correctResponsePattern>statement_6HdMnHtzpjL[.]choice_6FPEnfExub4</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_685knDfEseI</id>
+					<description lang="und">Rectángulo 1</description>
+				</component>
+				<component>
+					<id>statement_6BmuVM38up8</id>
+					<description lang="und">Rectángulo 2</description>
+				</component>
+				<component>
+					<id>statement_63Ai0kcwRSR</id>
+					<description lang="und">Rectángulo 3</description>
+				</component>
+				<component>
+					<id>statement_6HdMnHtzpjL</id>
+					<description lang="und">Rectángulo 4</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_68BmW0DDf9S</id>
+					<description lang="und">Cuadro de texto 14 - reúne</description>
+				</component>
+				<component>
+					<id>choice_5X3S8Cs0C4o</id>
+					<description lang="und">Cuadro de texto 12 - sociedad</description>
+				</component>
+				<component>
+					<id>choice_5WcErC4xovn</id>
+					<description lang="und">Cuadro de texto 15 - dicta</description>
+				</component>
+				<component>
+					<id>choice_6FPEnfExub4</id>
+					<description lang="und">Cuadro de texto 20 - norma</description>
+				</component>
+				<component>
+					<id>choice_5ciGJTpfyEY</id>
+					<description lang="und">Cuadro de texto 13 - tiene</description>
+				</component>
+				<component>
+					<id>choice_6WiaTwvwUVe</id>
+					<description lang="und">Cuadro de texto 16 - comunidad</description>
+				</component>
+				<component>
+					<id>choice_6QKm9SANFpd</id>
+					<description lang="und">Cuadro de texto 19 - ley</description>
+				</component>
+				<component>
+					<id>choice_6IvOtDOzZ56</id>
+					<description lang="und">Cuadro de texto 17 - entidad</description>
+				</component>
+				<component>
+					<id>choice_677M6XRj1Kk</id>
+					<description lang="und">Cuadro de texto 18 - sentencia</description>
+				</component>
+			</target>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/6nRnxm9mkfE" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad 2</name>
+			<description lang="und">Actividad 2</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/6nRnxm9mkfE/5pxwQhOHhWq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Verdadero/Falso</name>
+			<description lang="und">Verdadero/Falso</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6Gcem6hVqyN</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6QPCjkMJb7I</id>
+					<description lang="und">Verdadero</description>
+				</component>
+				<component>
+					<id>choice_6Gcem6hVqyN</id>
+					<description lang="und">Falso</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/5yjBYGhxOrm" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad 3</name>
+			<description lang="und">Actividad 3</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/5yjBYGhxOrm/6W9vNoDye2D" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Verdadero/Falso</name>
+			<description lang="und">Verdadero/Falso</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5bCaGSBOkEI</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5hmxAFVXlyb</id>
+					<description lang="und">Verdadero</description>
+				</component>
+				<component>
+					<id>choice_5bCaGSBOkEI</id>
+					<description lang="und">Falso</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/5naljqzAowt" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad 4</name>
+			<description lang="und">Actividad 4</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/5naljqzAowt/6rF9kxGEuD9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Arrastrar y soltar</name>
+			<description lang="und">Arrastrar y soltar</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_5XIsVdVkMeY[.]choice_5eC4JHckHwG</correctResponsePattern>
+				<correctResponsePattern>statement_60yfV3U9DVm[.]choice_6FuTuNx7XRk</correctResponsePattern>
+				<correctResponsePattern>statement_64zq4vSrE81[.]choice_6GjYBXvsAnC</correctResponsePattern>
+				<correctResponsePattern>statement_5gHGPE15w8H[.]choice_5zcW5OfHoHY</correctResponsePattern>
+				<correctResponsePattern>statement_5hBTeprZav0[.]choice_5joQBnWb09b</correctResponsePattern>
+				<correctResponsePattern>statement_6eDX5xahRvd[.]choice_5bFbnfspZhO</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_5XIsVdVkMeY</id>
+					<description lang="und">Rectángulo 9</description>
+				</component>
+				<component>
+					<id>statement_60yfV3U9DVm</id>
+					<description lang="und">Rectángulo 10</description>
+				</component>
+				<component>
+					<id>statement_64zq4vSrE81</id>
+					<description lang="und">Rectángulo 12</description>
+				</component>
+				<component>
+					<id>statement_5gHGPE15w8H</id>
+					<description lang="und">Rectángulo 1</description>
+				</component>
+				<component>
+					<id>statement_5hBTeprZav0</id>
+					<description lang="und">Rectángulo 8</description>
+				</component>
+				<component>
+					<id>statement_6eDX5xahRvd</id>
+					<description lang="und">Rectángulo 11</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_5eC4JHckHwG</id>
+					<description lang="und">Cuadro de texto 9 - Se reúnen para conversar los problemas a fin de solucionar malentendidos y asegurar una convivencia pacífica. </description>
+				</component>
+				<component>
+					<id>choice_6FuTuNx7XRk</id>
+					<description lang="und">Cuadro de texto 11 - Tienen una visión de la humanidad desde la perspectiva de que la persona se hace con otra o humanidad hacia otros</description>
+				</component>
+				<component>
+					<id>choice_6GjYBXvsAnC</id>
+					<description lang="und">Cuadro de texto 12 - Cuentan con la presencia del un Palabrero o pütchipü como negociador. </description>
+				</component>
+				<component>
+					<id>choice_5zcW5OfHoHY</id>
+					<description lang="und">Cuadro de texto 13 - Realizan lo que denominan demanda de indemnización (Nalyeeh) o medicación con un obrador de la paz-- “peacemaker”. </description>
+				</component>
+				<component>
+					<id>choice_5joQBnWb09b</id>
+					<description lang="und">Cuadro de texto 14 - Tienen un sistema normativo para resolver sus controversias Tikanga. </description>
+				</component>
+				<component>
+					<id>choice_5bFbnfspZhO</id>
+					<description lang="und">Cuadro de texto 15 - Cuentan con un Código Universal que establece normas de conducta necesarias para mantener el equilibrio individual y colectivo del cosmos</description>
+				</component>
+			</target>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/6eIUmnYB7er" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad 5</name>
+			<description lang="und">Actividad 5</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/6eIUmnYB7er/5WNtUa7z9Y8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Arrastrar y soltar</name>
+			<description lang="und">Arrastrar y soltar</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_5VRudA5VK8T[.]choice_6iyC6S2vgNB</correctResponsePattern>
+				<correctResponsePattern>statement_5txYZuoAWXZ[.]choice_6coYkPPfvCP</correctResponsePattern>
+				<correctResponsePattern>statement_6DmXZAThBih[.]choice_5hzD68JeyAZ</correctResponsePattern>
+				<correctResponsePattern>statement_61MIGiUNdZL[.]choice_6HQqsUGHPtD</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_5VRudA5VK8T</id>
+					<description lang="und">Rectángulo 6</description>
+				</component>
+				<component>
+					<id>statement_5txYZuoAWXZ</id>
+					<description lang="und">Rectángulo 7</description>
+				</component>
+				<component>
+					<id>statement_6DmXZAThBih</id>
+					<description lang="und">Rectángulo 8</description>
+				</component>
+				<component>
+					<id>statement_61MIGiUNdZL</id>
+					<description lang="und">Rectángulo 5</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_6iyC6S2vgNB</id>
+					<description lang="und">Cuadro de texto 7 - Procura ofrecer a cada individuo, de forma equitativa, recursos y riqueza para una vida digna. </description>
+				</component>
+				<component>
+					<id>choice_6coYkPPfvCP</id>
+					<description lang="und">Cuadro de texto 9 - Es también conocida como punitiva, es una teoría de justicia basada en la pena. </description>
+				</component>
+				<component>
+					<id>choice_5hzD68JeyAZ</id>
+					<description lang="und">Cuadro de texto 8 - Propone una mirada más humana al sistema de justicia, pues plantea que el delito o falta es en contra de una persona concreta, su grupo familiar, su comunidad y la sociedad en sí. </description>
+				</component>
+				<component>
+					<id>choice_6HQqsUGHPtD</id>
+					<description lang="und">Cuadro de texto 10 - Implementa decisiones de acuerdo a procesos justos reforzando la obediencia a las normas. </description>
+				</component>
+			</target>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/5m9HpHMSSck" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Concepto de justicia</name>
+			<description lang="und">Concepto de justicia</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/6V0I1oO4vdh" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Conceptos de justicia en la historia</name>
+			<description lang="und">Conceptos de justicia en la historia</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/5W00zFE6rbv" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Simbología de la justicia</name>
+			<description lang="und">Simbología de la justicia</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/6L7yz89xSma" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tipos de justicia</name>
+			<description lang="und">Tipos de justicia</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/6Nf7QYkoDXe" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tipos de justicia: importancia</name>
+			<description lang="und">Tipos de justicia: importancia</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/5bcqdjx6piZ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Conceptos asociados a la práctica restaurativa</name>
+			<description lang="und">Conceptos asociados a la práctica restaurativa</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/5ha4XfMDG7q" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Los Derechos Humanos</name>
+			<description lang="und">Los Derechos Humanos</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/5vK7u6QnVZB" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Organismos que velan por los Derechos Humanos</name>
+			<description lang="und">Organismos que velan por los Derechos Humanos</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/5ljRrDw6Xcb" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Violación de los Derechos Humanos</name>
+			<description lang="und">Violación de los Derechos Humanos</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/6LOEyrx790w" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">La criminología: sus principios y teorías</name>
+			<description lang="und">La criminología: sus principios y teorías</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/5xYB4MDOdj5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Teorías de la criminología</name>
+			<description lang="und">Teorías de la criminología</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/64kUUiGxdbK" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Prevención al delito</name>
+			<description lang="und">Prevención al delito</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/5yLJOXqNJbR" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Victimización</name>
+			<description lang="und">Victimización</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/5tBCqn36AeS" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Reflexiona</name>
+			<description lang="und">Reflexiona</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/6NOGBTJokrp" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Antecedentes de experiencias restaurativas en comunidades indígenas</name>
+			<description lang="und">Antecedentes de experiencias restaurativas en comunidades indígenas</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/6fyI4bfvEyP" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Comunidades del mundo que implementan prácticas restaurativas</name>
+			<description lang="und">Comunidades del mundo que implementan prácticas restaurativas</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/6dS8wRcXwVz" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Antecedentes de experiencias restaurativas en comunidades indígenas: conclusión</name>
+			<description lang="und">Antecedentes de experiencias restaurativas en comunidades indígenas: conclusión</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/5m69BxNxwvT" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Reflexiona</name>
+			<description lang="und">Reflexiona</description>
+		</activity>
+		<activity id="http://6NzbfXtr07d_course_id/69hQBg0TDfH" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Reflexiona 2</name>
+			<description lang="und">Reflexiona 2</description>
+		</activity>
+	</activities>
+</tincan>
