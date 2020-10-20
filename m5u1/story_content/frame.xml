@@ -14,7 +14,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="M5U1" />
+              <option name="title_text" value="La Comunicación Humana" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1219,7 +1219,7 @@
       <links>
         <slidelink slideid="_player.6ng2xZVodgV" displaytext="Bienvenida" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6ng2xZVodgV.65GdnU0WcTo" displaytext="Instrucciones" expand="false" type="slide" />
+            <slidelink slideid="_player.6ng2xZVodgV.5YM4jnEnFJ2" displaytext="La Comunicación Humana" expand="false" type="slide" />
             <slidelink slideid="_player.6ng2xZVodgV.6Sfov3Z4iRZ" displaytext="Objetivo" expand="false" type="slide" />
             <slidelink slideid="_player.6ng2xZVodgV.5rDMvYi3mEv" displaytext="Introducción" expand="false" type="slide" />
           </links>
@@ -1227,31 +1227,29 @@
         <slidelink slideid="_player.6XyF8uypmKg" displaytext="La comunicación humana" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6XyF8uypmKg.6YVjw4gibyF" displaytext="Niveles de comunicación:" expand="false" type="slide" />
+            <slidelink slideid="_player.6XyF8uypmKg.6GnyLENJH8F" displaytext="Niveles de comunicación:" expand="false" type="slide" />
             <slidelink slideid="_player.6XyF8uypmKg.6cYU2Lhs0t1" displaytext="Reflexiona" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6Z2SlxRdlZP" displaytext="Las barreras de la comunicación" expand="true" type="slide">
+        <slidelink slideid="_player.6Z2SlxRdlZP.6pd169Nq11F" displaytext="Las barreras de la comunicación: definición" expand="false" type="slide">
           <links>
-            <slidelink slideid="_player.6Z2SlxRdlZP.6pd169Nq11F" displaytext="Las barreras de la comunicación: definición" expand="false" type="slide" />
             <slidelink slideid="_player.6Z2SlxRdlZP.6kBDL1DfQOm" displaytext="Reflexiona" expand="false" type="slide" />
             <slidelink slideid="_player.6Z2SlxRdlZP.5wAPLkTxUm9" displaytext="Las barreras de la comunicación: tipos" expand="false" type="slide" />
             <slidelink slideid="_player.6Z2SlxRdlZP.6GYmpaESgJN" displaytext="Las barreras de la comunicación: conclusiones" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5ziBWfdIxO9" displaytext="La comunicación asertiva" expand="true" type="slide">
+        <slidelink slideid="_player.5ziBWfdIxO9.5xm8PBeN32R" displaytext="La comunicación asertiva" expand="false" type="slide">
           <links>
-            <slidelink slideid="_player.5ziBWfdIxO9.5xm8PBeN32R" displaytext="La comunicación asertiva" expand="false" type="slide" />
             <slidelink slideid="_player.5ziBWfdIxO9.5WjEqyfK1sq" displaytext="Reflexiona" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5xgAmJEhSst" displaytext="Los nuevos hábitos de la comunicación" expand="true" type="slide">
+        <slidelink slideid="_player.5xgAmJEhSst.5nXaruRmDSp" displaytext="Los nuevos hábitos de la comunicación: introducción" expand="false" type="slide">
           <links>
-            <slidelink slideid="_player.5xgAmJEhSst.5nXaruRmDSp" displaytext="Los nuevos hábitos de la comunicación: introducción" expand="false" type="slide" />
             <slidelink slideid="_player.5xgAmJEhSst.6ZwzrEt3RE7" displaytext="Aspectos que caracterizan a los nuevos hábitos de comunicación" expand="false" type="slide" />
             <slidelink slideid="_player.5xgAmJEhSst.6TiKqZyU6na" displaytext="Reflexiona" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6LTsMllXQf5" displaytext="Actividad" expand="true" type="slide">
+        <slidelink slideid="_player.6LTsMllXQf5.5wOKk9mmXfF" displaytext="Actividad" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.6LTsMllXQf5.5ibLxWyHToR" displaytext="Actividad 1" expand="false" type="slide" />
             <slidelink slideid="_player.6LTsMllXQf5.6RqrH755Sto" displaytext="Actividad 2" expand="false" type="slide" />
@@ -1263,9 +1261,8 @@
             <slidelink slideid="_player.6LTsMllXQf5.6WBc9Z6iNvx" displaytext="Actividad 8" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5xgCnbU2Nzy" displaytext="Para finalizar" expand="true" type="slide">
+        <slidelink slideid="_player.5xgCnbU2Nzy.5c06GePpKDA" displaytext="Para finalizar" expand="false" type="slide">
           <links>
-            <slidelink slideid="_player.5xgCnbU2Nzy.5c06GePpKDA" displaytext="Para finalizar" expand="false" type="slide" />
             <slidelink slideid="_player.5xgCnbU2Nzy.60zJDPHnr7L" displaytext="Resumen" expand="false" type="slide" />
             <slidelink slideid="_player.5xgCnbU2Nzy.5dvEkiiEiIA" displaytext="Referencias" expand="false" type="slide" />
             <slidelink slideid="_player.5xgCnbU2Nzy.6ji5FAJj03m" displaytext="Cierre" expand="false" type="slide" />
