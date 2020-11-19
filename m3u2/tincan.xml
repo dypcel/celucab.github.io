@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://6g4ozaySA5T_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">M5U1</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5YM4jnEnFJ2" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">La Comunicación Humana</name>
+			<description lang="und">La Comunicación Humana</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6FGWoAXn2Kg" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Objetivo</name>
+			<description lang="und">Objetivo</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6Sfov3Z4iRZ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Objetivo</name>
+			<description lang="und">Objetivo</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5rDMvYi3mEv" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introducción</name>
+			<description lang="und">Introducción</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/64wUTLtSG7F" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introducción</name>
+			<description lang="und">Introducción</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/64KdC92MZdA" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introducción</name>
+			<description lang="und">Introducción</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6GnyLENJH8F" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Orígenes antropológicos de la mediación</name>
+			<description lang="und">Orígenes antropológicos de la mediación</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5wOKk9mmXfF" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad</name>
+			<description lang="und">Actividad</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6SmmZtG8ea1" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad 2</name>
+			<description lang="und">Actividad 2</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6SmmZtG8ea1/5iHaIuW2FDf" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">El objetivo de la mediación de estructurar o diseñar es un proceso adecuado a las personas inmersas en el conflicto.</name>
+			<description lang="und">El objetivo de la mediación de estructurar o diseñar es un proceso adecuado a las personas inmersas en el conflicto.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5m5RKSycXPF</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6dDl9QC5OUa</id>
+					<description lang="und">Verdadero.</description>
+				</component>
+				<component>
+					<id>choice_5m5RKSycXPF</id>
+					<description lang="und">Falso.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5Xb00i9jldd" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad 3</name>
+			<description lang="und">Actividad 3</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5Xb00i9jldd/5qNqldd2rGZ" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">La Mediación debe propiciar un vencedor para que el conflicto quede resuelto. </name>
+			<description lang="und">La Mediación debe propiciar un vencedor para que el conflicto quede resuelto. </description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6ARy5AfSzID</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5UhfyNa5jVd</id>
+					<description lang="und">Verdadero.</description>
+				</component>
+				<component>
+					<id>choice_6ARy5AfSzID</id>
+					<description lang="und">Falso.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6AMgYWUUNJv" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad 1</name>
+			<description lang="und">Actividad 1</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6AMgYWUUNJv/5V1k8YJLFQq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">La mediación es un sistema cooperativo de gestión y resolución de conflictos no jurisdiccional, voluntario y confidencial.</name>
+			<description lang="und">La mediación es un sistema cooperativo de gestión y resolución de conflictos no jurisdiccional, voluntario y confidencial.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_60pfALxEvfm</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_60pfALxEvfm</id>
+					<description lang="und">Verdadero.</description>
+				</component>
+				<component>
+					<id>choice_5XGjDx9Ln0S</id>
+					<description lang="und">Falso.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5f1Tgor86zz" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad 6</name>
+			<description lang="und">Actividad 6</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5f1Tgor86zz/5rW8b3bLRS5" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">En la etapa de premediación el mediador deberá escuchar activamente las percepciones que tienen las partes sobre el conflicto. </name>
+			<description lang="und">En la etapa de premediación el mediador deberá escuchar activamente las percepciones que tienen las partes sobre el conflicto. </description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6Z0ilJcEjXw</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6mNposIIgjg</id>
+					<description lang="und">Verdadero.</description>
+				</component>
+				<component>
+					<id>choice_6Z0ilJcEjXw</id>
+					<description lang="und">Falso.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/60QjHbsdCxb" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad 7</name>
+			<description lang="und">Actividad 7</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/60QjHbsdCxb/5iTtawe4VJX" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Una característica de la mediación es la negociación asistida por un tercero.</name>
+			<description lang="und">Una característica de la mediación es la negociación asistida por un tercero.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5uHMBz0ClhJ</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5uHMBz0ClhJ</id>
+					<description lang="und">Verdadero.</description>
+				</component>
+				<component>
+					<id>choice_6Rx0O5LhJef</id>
+					<description lang="und">Falso.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6atYJD9gppb" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad 8</name>
+			<description lang="und">Actividad 8</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6atYJD9gppb/6bRtQ3CWphz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">En una mediación es posible la voluntad de solventar la situación. </name>
+			<description lang="und">En una mediación es posible la voluntad de solventar la situación. </description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6ZW07Mv8HDi</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6ZW07Mv8HDi</id>
+					<description lang="und">Verdadero.</description>
+				</component>
+				<component>
+					<id>choice_61yVvEVy82D</id>
+					<description lang="und">Falso.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5dCpLI0EL86" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad 5</name>
+			<description lang="und">Actividad 5</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5dCpLI0EL86/6Kz0OTFyfFo" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">En el mediador es vital su capacidad para lograr ser eficaz en la solución del conflicto, aún más en el marco de la justicia restaurativa. </name>
+			<description lang="und">En el mediador es vital su capacidad para lograr ser eficaz en la solución del conflicto, aún más en el marco de la justicia restaurativa. </description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5V6jgOL2g5Z</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5V6jgOL2g5Z</id>
+					<description lang="und">Verdadero.</description>
+				</component>
+				<component>
+					<id>choice_6lQ8BT2xSLd</id>
+					<description lang="und">Falso.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6WBc9Z6iNvx" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad 4</name>
+			<description lang="und">Actividad 4</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6WBc9Z6iNvx/6fT6j1igtnE" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Arrastrar y soltar</name>
+			<description lang="und">Arrastrar y soltar</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_6mVU7wT9wxx[.]choice_6KNjjaGiZia</correctResponsePattern>
+				<correctResponsePattern>statement_6G8M7LjUFsh[.]choice_6Wq8ZLBPM0G</correctResponsePattern>
+				<correctResponsePattern>statement_6UALEoRdFvy[.]choice_6JWllCS6dgn</correctResponsePattern>
+				<correctResponsePattern>statement_6HbPeB2bqCs[.]choice_6eQxIB1ESc4</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_6mVU7wT9wxx</id>
+					<description lang="und">Rectángulo 3</description>
+				</component>
+				<component>
+					<id>statement_6G8M7LjUFsh</id>
+					<description lang="und">Rectángulo 2</description>
+				</component>
+				<component>
+					<id>statement_6UALEoRdFvy</id>
+					<description lang="und">Rectángulo 5</description>
+				</component>
+				<component>
+					<id>statement_6HbPeB2bqCs</id>
+					<description lang="und">Rectángulo 4</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_6KNjjaGiZia</id>
+					<description lang="und">Cuadro de texto 2 - Bilateralidad</description>
+				</component>
+				<component>
+					<id>choice_6Wq8ZLBPM0G</id>
+					<description lang="und">Cuadro de texto 3 - Gratuidad</description>
+				</component>
+				<component>
+					<id>choice_6JWllCS6dgn</id>
+					<description lang="und">Cuadro de texto 4 - Confidencialidad</description>
+				</component>
+				<component>
+					<id>choice_6eQxIB1ESc4</id>
+					<description lang="und">Cuadro de texto 6 - Flexibilidad </description>
+				</component>
+				<component>
+					<id>choice_6Ll3Irco1z4</id>
+					<description lang="und">Cuadro de texto 5 - Cooperativita </description>
+				</component>
+				<component>
+					<id>choice_5vi6P2taDOc</id>
+					<description lang="und">Cuadro de texto 10 - Preventiva</description>
+				</component>
+			</target>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5c06GePpKDA" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Para finalizar</name>
+			<description lang="und">Para finalizar</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/60zJDPHnr7L" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Resumen</name>
+			<description lang="und">Resumen</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5dvEkiiEiIA" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Referencias</name>
+			<description lang="und">Referencias</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6YjPlUwNZZM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Referencias</name>
+			<description lang="und">Referencias</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6ji5FAJj03m" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Cierre</name>
+			<description lang="und">Cierre</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6pd169Nq11F" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Concepto de mediación</name>
+			<description lang="und">Concepto de mediación</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5Z0kb1yBvFr" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Concepto de mediación</name>
+			<description lang="und">Concepto de mediación</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5wAPLkTxUm9" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Objetivos de la mediación</name>
+			<description lang="und">Objetivos de la mediación</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5xm8PBeN32R" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Principios básicos de la mediación</name>
+			<description lang="und">Principios básicos de la mediación</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5nXaruRmDSp" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Otros fundamentos de la mediación</name>
+			<description lang="und">Otros fundamentos de la mediación</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5otYT9zZYtx" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Ámbitos de aplicación de la mediación</name>
+			<description lang="und">Ámbitos de aplicación de la mediación</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6ZwzrEt3RE7" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">¿Es posible el proceso de mediación?</name>
+			<description lang="und">¿Es posible el proceso de mediación?</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5bNnZCbme3N" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Etapas del proceso de mediación</name>
+			<description lang="und">Etapas del proceso de mediación</description>
+		</activity>
+	</activities>
+</tincan>
