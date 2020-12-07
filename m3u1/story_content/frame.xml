@@ -14,7 +14,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="El conflicto y sus dimensiones" />
+              <option name="title_text" value="M&amp;#243;dulo 3 Unidad 1" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -73,6 +73,7 @@
               <option name="font" value="Arial" />
             </options>
           </option>
+          <option name="settings" value="true" />
         </options>
       </optiongroup>
       <optiongroup name="bottombaroptions">
@@ -1148,13 +1149,19 @@
   </colorschemes>
   <string_tables>
     <string_table name="pxabnsnfns10111010101">
+      <string id="accessible_text">~Acce~ššib~le ţ~eχţ</string>
       <string id="acc_active">activo</string>
+      <string id="alt_key">~Alţ</string>
       <string id="check_include">De verificación para incluir</string>
       <string id="clear">Borrar y volver al menú</string>
       <string id="close">Cerrar</string>
       <string id="acc_closed_captions">Subtítulos cerrados. Presiona la barra de espacio para activar y desactivar los subtítulos.</string>
+      <string id="closed_captions_tip">~Cløš~ed C~aþţi~øñš</string>
       <string id="continue">Continuar</string>
       <string id="continueresponsive">Continuar</string>
+      <string id="ctrl_key">~Cţřl</string>
+      <string id="enable_keyboardshortcuts">~Eñab~le ķ~eýbø~ařd ~šhøř~ţcüţ~š</string>
+      <string id="enter_key">~Eñţe~ř</string>
       <string id="exit">Salir</string>
       <string id="filter">Filtro</string>
       <string id="finish">FINALIZAR</string>
@@ -1166,23 +1173,37 @@
       <string id="action">Acción</string>
       <string id="keyboardshortcuts">Atajos de teclado</string>
       <string id="shortcuthelp">Listar los atajos de teclado</string>
+      <string id="mute_shortcut">~Müţe~ / U~ñӎüţ~e</string>
+      <string id="next_shortcut">~Neχţ~ Sli~de</string>
+      <string id="playpause_shortcut">~Plaý~ / P~aüše</string>
+      <string id="previous_shortcut">~Přeѵ~iøüš~ Sli~de</string>
       <string id="shortcut">Atajo</string>
+      <string id="submit_shortcut">~Sübӎ~iţ S~lide</string>
       <string id="togglezoom">Alternar los modos de zoom</string>
+      <string id="acctext_shortcut">~Tøgg~le a~cceš~šibl~e ţe~χţ</string>
+      <string id="closedcaptions_shortcut">~Tøgg~le c~løše~d ca~þţiø~ñš</string>
       <string id="outline">Menú</string>
       <string id="disabled_orientation">Rote el dispositivo</string>
+      <string id="mute_tip">~Müţe</string>
       <string id="next">SIG</string>
       <string id="acc_next">siguiente</string>
+      <string id="next_slide_tip">~Neχţ~ Sli~de</string>
       <string id="transcript_chk">Notas</string>
       <string id="transcript">Notas</string>
       <string id="bio">Biografía</string>
       <string id="more_info">Más información</string>
       <string id="closed_captions">Subtítulos</string>
       <string id="acc_pause">pausa</string>
+      <string id="pause_tip">~Paüš~e</string>
       <string id="acc_play">Reproducir</string>
+      <string id="play_tip">~Plaý</string>
       <string id="send_an_email">Enviar correo electrónico</string>
       <string id="prev">ANT</string>
       <string id="acc_previous">anterior</string>
+      <string id="previous_slide_tip">~Přeѵ~iøüš~ Sli~de</string>
       <string id="question_list">Lista de preguntas</string>
+      <string id="replay_shortcut">~Reþl~aý S~lide</string>
+      <string id="replay_tip">~Reþl~aý S~lide</string>
       <string id="acc_replay">repetición</string>
       <string id="resources">Recursos</string>
       <string id="acc_resources">los recursos</string>
@@ -1196,13 +1217,19 @@
       <string id="search">Buscar ...</string>
       <string id="search_in">Buscar en:</string>
       <string id="search_results">Resultados de la búsqueda</string>
+      <string id="settings_tip">~Seţţ~iñgš</string>
+      <string id="shift_key">~Shif~ţ</string>
       <string id="acc_skipnavigation">Volver a la diapositiva</string>
       <string id="slide_text_chk">Texto Diapositiva</string>
+      <string id="spacebar_key">~Sþac~e</string>
       <string id="submitall">ENVIAR TODO</string>
       <string id="acc_submitall">enviar todo</string>
       <string id="submit">ENVIAR</string>
       <string id="acc_submit">presentar</string>
+      <string id="submit_tip">~Sübӎ~iţ</string>
+      <string id="unmute_tip">~Uñӎü~ţe</string>
       <string id="acc_volume">volumen</string>
+      <string id="zoom_to_fit">~Zøøӎ~ ţø ~fiţ</string>
     </string_table>
   </string_tables>
   <fonts>
