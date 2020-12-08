@@ -7,8 +7,8 @@
 			<launch lang="und">index_lms.html</launch>
 		</activity>
 		<activity id="http://6g4ozaySA5T_course_id/5YM4jnEnFJ2" type="http://adlnet.gov/expapi/activities/module">
-			<name lang="und">La Comunicación Humana</name>
-			<description lang="und">La Comunicación Humana</description>
+			<name lang="und">Métodos asociados a la mediación</name>
+			<description lang="und">Métodos asociados a la mediación</description>
 		</activity>
 		<activity id="http://6g4ozaySA5T_course_id/6FGWoAXn2Kg" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Objetivo</name>
