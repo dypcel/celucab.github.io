@@ -15,7 +15,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="M5U1" />
+              <option name="title_text" value="M3U2" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1244,19 +1244,19 @@
       <links>
         <slidelink slideid="_player.6ng2xZVodgV" displaytext="Bienvenida" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6ng2xZVodgV.5YM4jnEnFJ2" displaytext="La Comunicación Humana" expand="false" type="slide" />
+            <slidelink slideid="_player.6ng2xZVodgV.5YM4jnEnFJ2" displaytext="Mediación de conflictos " expand="false" type="slide" />
             <slidelink slideid="_player.6ng2xZVodgV.6FGWoAXn2Kg" displaytext="Objetivo" expand="false" type="slide" />
             <slidelink slideid="_player.6ng2xZVodgV.5rDMvYi3mEv" displaytext="Introducción" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6XyF8uypmKg.6GnyLENJH8F" displaytext="Orígenes antropológicos de la mediación" expand="false" type="slide" />
-        <slidelink slideid="_player.6Z2SlxRdlZP.6pd169Nq11F" displaytext="Concepto de mediación" expand="true" type="slide">
+        <slidelink slideid="_player.6Z2SlxRdlZP.6pd169Nq11F" displaytext="Concepto de mediación" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.6Z2SlxRdlZP.5wAPLkTxUm9" displaytext="Objetivos de la mediación" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.5ziBWfdIxO9.5xm8PBeN32R" displaytext="Principios básicos de la mediación" expand="false" type="slide" />
-        <slidelink slideid="_player.5xgAmJEhSst.5nXaruRmDSp" displaytext="Otros fundamentos de la mediación" expand="true" type="slide">
+        <slidelink slideid="_player.5xgAmJEhSst.5nXaruRmDSp" displaytext="Otros fundamentos de la mediación" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.5xgAmJEhSst.5otYT9zZYtx" displaytext="Ámbitos de aplicación de la mediación" expand="false" type="slide" />
             <slidelink slideid="_player.5xgAmJEhSst.6ZwzrEt3RE7" displaytext="¿Es posible el proceso de mediación?" expand="false" type="slide" />
@@ -1276,7 +1276,7 @@
             <slidelink slideid="_player.6LTsMllXQf5.6atYJD9gppb" displaytext="Actividad 8" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5xgCnbU2Nzy.5c06GePpKDA" displaytext="Para finalizar" expand="true" type="slide">
+        <slidelink slideid="_player.5xgCnbU2Nzy.5c06GePpKDA" displaytext="Para finalizar" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.5xgCnbU2Nzy.60zJDPHnr7L" displaytext="Resumen" expand="false" type="slide" />
             <slidelink slideid="_player.5xgCnbU2Nzy.5dvEkiiEiIA" displaytext="Referencias" expand="false" type="slide" />

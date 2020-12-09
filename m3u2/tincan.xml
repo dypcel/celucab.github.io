@@ -2,13 +2,13 @@
 <tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
 	<activities>
 		<activity id="http://6g4ozaySA5T_course_id" type="http://adlnet.gov/expapi/activities/course">
-			<name lang="und">M5U1</name>
+			<name lang="und">M3U2</name>
 			<description lang="und" />
 			<launch lang="und">index_lms.html</launch>
 		</activity>
 		<activity id="http://6g4ozaySA5T_course_id/5YM4jnEnFJ2" type="http://adlnet.gov/expapi/activities/module">
-			<name lang="und">La Comunicación Humana</name>
-			<description lang="und">La Comunicación Humana</description>
+			<name lang="und">Mediación de conflictos </name>
+			<description lang="und">Mediación de conflictos </description>
 		</activity>
 		<activity id="http://6g4ozaySA5T_course_id/6FGWoAXn2Kg" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Objetivo</name>

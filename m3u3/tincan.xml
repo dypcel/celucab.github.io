@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://6g4ozaySA5T_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">M3U3</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5YM4jnEnFJ2" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Métodos asociados a la mediación</name>
+			<description lang="und">Métodos asociados a la mediación</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6FGWoAXn2Kg" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Objetivo</name>
+			<description lang="und">Objetivo</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6Sfov3Z4iRZ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Objetivo</name>
+			<description lang="und">Objetivo</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5rDMvYi3mEv" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introducción</name>
+			<description lang="und">Introducción</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/64wUTLtSG7F" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introducción</name>
+			<description lang="und">Introducción</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/64KdC92MZdA" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introducción</name>
+			<description lang="und">Introducción</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6GnyLENJH8F" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Métodos asociados a la Mediación</name>
+			<description lang="und">Métodos asociados a la Mediación</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6f0d2Eb8nrP" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Métodos asociados a la Mediación</name>
+			<description lang="und">Métodos asociados a la Mediación</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6h2al7ebte6" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Ventajas de la mediación</name>
+			<description lang="und">Ventajas de la mediación</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5wOKk9mmXfF" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad</name>
+			<description lang="und">Actividad</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6SmmZtG8ea1" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad 1</name>
+			<description lang="und">Actividad 1</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6SmmZtG8ea1/5iHaIuW2FDf" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">La Conciliación es un sistema heterocompositivo de resolución de conflictos. La solución viene impuesta desde fuera. </name>
+			<description lang="und">La Conciliación es un sistema heterocompositivo de resolución de conflictos. La solución viene impuesta desde fuera. </description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5m5RKSycXPF</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6dDl9QC5OUa</id>
+					<description lang="und">Verdadero.</description>
+				</component>
+				<component>
+					<id>choice_5m5RKSycXPF</id>
+					<description lang="und">Falso.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5Xb00i9jldd" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad 2</name>
+			<description lang="und">Actividad 2</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5Xb00i9jldd/5qNqldd2rGZ" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">La rapidez donde el tercero es imparcial, sea árbitro, conciliador o mediador, puede ayudar a llegar a un resultado antes de que el proceso progrese o incluso se inicie. </name>
+			<description lang="und">La rapidez donde el tercero es imparcial, sea árbitro, conciliador o mediador, puede ayudar a llegar a un resultado antes de que el proceso progrese o incluso se inicie. </description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5UhfyNa5jVd</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5UhfyNa5jVd</id>
+					<description lang="und">Verdadero.</description>
+				</component>
+				<component>
+					<id>choice_6ARy5AfSzID</id>
+					<description lang="und">Falso.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6AMgYWUUNJv" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad 3</name>
+			<description lang="und">Actividad 3</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6AMgYWUUNJv/5V1k8YJLFQq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">El arbitraje, es quien resuelve es un tercero igual e imparcial que efectúa una recomendación formal no impositiva, pero que necesita el compromiso de las partes. </name>
+			<description lang="und">El arbitraje, es quien resuelve es un tercero igual e imparcial que efectúa una recomendación formal no impositiva, pero que necesita el compromiso de las partes. </description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5XGjDx9Ln0S</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_60pfALxEvfm</id>
+					<description lang="und">Verdadero.</description>
+				</component>
+				<component>
+					<id>choice_5XGjDx9Ln0S</id>
+					<description lang="und">Falso.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5f1Tgor86zz" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad 4</name>
+			<description lang="und">Actividad 4</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5f1Tgor86zz/5rW8b3bLRS5" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Participación de un tercero interviene dando especial importancia en recuperar la relación entre las partes para ello utiliza sus cualidades con el fin de logra que las partes consigan una solución propia. </name>
+			<description lang="und">Participación de un tercero interviene dando especial importancia en recuperar la relación entre las partes para ello utiliza sus cualidades con el fin de logra que las partes consigan una solución propia. </description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6mNposIIgjg</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6mNposIIgjg</id>
+					<description lang="und">Verdadero.</description>
+				</component>
+				<component>
+					<id>choice_6Z0ilJcEjXw</id>
+					<description lang="und">Falso.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/60QjHbsdCxb" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad 5</name>
+			<description lang="und">Actividad 5</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/60QjHbsdCxb/5iTtawe4VJX" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">La Mediación es cuando las partes no pueden solucionar directamente una controversia y optan por la intervención de un tercero neutral, quien, sin imponer sus decisiones, guía a las partes hacia la solución del conflicto. </name>
+			<description lang="und">La Mediación es cuando las partes no pueden solucionar directamente una controversia y optan por la intervención de un tercero neutral, quien, sin imponer sus decisiones, guía a las partes hacia la solución del conflicto. </description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5uHMBz0ClhJ</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5uHMBz0ClhJ</id>
+					<description lang="und">Verdadero.</description>
+				</component>
+				<component>
+					<id>choice_6Rx0O5LhJef</id>
+					<description lang="und">Falso.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6atYJD9gppb" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad 6</name>
+			<description lang="und">Actividad 6</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6atYJD9gppb/6bRtQ3CWphz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Mediación Empresarial o Laboral: está dirigida a aquellas personas que tienen problemas con los vecinos, con el administrador de fincas, con el presidente de su comunidad o con las personas de su barrio, zona o municipio. </name>
+			<description lang="und">Mediación Empresarial o Laboral: está dirigida a aquellas personas que tienen problemas con los vecinos, con el administrador de fincas, con el presidente de su comunidad o con las personas de su barrio, zona o municipio. </description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_61yVvEVy82D</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6ZW07Mv8HDi</id>
+					<description lang="und">Verdadero.</description>
+				</component>
+				<component>
+					<id>choice_61yVvEVy82D</id>
+					<description lang="und">Falso.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5dCpLI0EL86" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad 7</name>
+			<description lang="und">Actividad 7</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5dCpLI0EL86/6Kz0OTFyfFo" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Para avanzar en una posible mediación es necesario que la respuesta sea negativa a las siguientes interrogantes. </name>
+			<description lang="und">Para avanzar en una posible mediación es necesario que la respuesta sea negativa a las siguientes interrogantes. </description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6lQ8BT2xSLd</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5V6jgOL2g5Z</id>
+					<description lang="und">Verdadero.</description>
+				</component>
+				<component>
+					<id>choice_6lQ8BT2xSLd</id>
+					<description lang="und">Falso.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5mVpJNTbJe5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad 8</name>
+			<description lang="und">Actividad 8</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5mVpJNTbJe5/5loxqMxSEvy" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">El objetivo de la negociación, consiste “para dos o más partes en conflicto, en llegar a un acuerdo por medio de conversaciones e intercambio de opiniones entre sus representantes</name>
+			<description lang="und">El objetivo de la negociación, consiste “para dos o más partes en conflicto, en llegar a un acuerdo por medio de conversaciones e intercambio de opiniones entre sus representantes</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5uUCPnbHZy7</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5uUCPnbHZy7</id>
+					<description lang="und">Verdadero.</description>
+				</component>
+				<component>
+					<id>choice_6aaNNj0aGkJ</id>
+					<description lang="und">Falso.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5c06GePpKDA" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Para finalizar</name>
+			<description lang="und">Para finalizar</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/60zJDPHnr7L" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Resumen</name>
+			<description lang="und">Resumen</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5dvEkiiEiIA" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Referencias</name>
+			<description lang="und">Referencias</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6YjPlUwNZZM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Referencias</name>
+			<description lang="und">Referencias</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6B0yuSSVoeH" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Referencias</name>
+			<description lang="und">Referencias</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6ciXACAsyIS" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Referencias</name>
+			<description lang="und">Referencias</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6pdMjoJnVpf" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Referencias</name>
+			<description lang="und">Referencias</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6ji5FAJj03m" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Cierre</name>
+			<description lang="und">Cierre</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6pd169Nq11F" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Métodos contemporáneos de resolución de conflictos</name>
+			<description lang="und">Métodos contemporáneos de resolución de conflictos</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5Z0kb1yBvFr" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Métodos contemporáneos de resolución de conflictos</name>
+			<description lang="und">Métodos contemporáneos de resolución de conflictos</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6ft1d0ybcBY" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">El arbitraje </name>
+			<description lang="und">El arbitraje </description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5uxTXkXd3sY" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">La negociación</name>
+			<description lang="und">La negociación</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6gHnosdubnm" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Características de la negociación </name>
+			<description lang="und">Características de la negociación </description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5auRj65iXdk" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Conciliación </name>
+			<description lang="und">Conciliación </description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6AERQ3GN8rt" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Características de la conciliación </name>
+			<description lang="und">Características de la conciliación </description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6aW3mOegeer" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Mediación </name>
+			<description lang="und">Mediación </description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5s4kdMfXS2K" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tipos de mediación</name>
+			<description lang="und">Tipos de mediación</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5nXaruRmDSp" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Estudio diagnóstico de casos </name>
+			<description lang="und">Estudio diagnóstico de casos </description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5otYT9zZYtx" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Estudio diagnóstico de casos </name>
+			<description lang="und">Estudio diagnóstico de casos </description>
+		</activity>
+	</activities>
+</tincan>

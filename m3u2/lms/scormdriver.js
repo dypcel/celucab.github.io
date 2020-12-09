@@ -27468,8 +27468,8 @@ var Cmi5;
 }());
 /* declare globals that are set via Desktop token replacement for configuration */
 var TC_COURSE_ID = "_6g4ozaySA5T_course_id";
-var TC_COURSE_NAME = "M5U1";
-var TC_COURSE_DESC = "M5U1";
+var TC_COURSE_NAME = "M3U2";
+var TC_COURSE_DESC = "M3U2";
 var TC_RECORD_STORES = "[]";
 
 /* declare other globals we'll use */
