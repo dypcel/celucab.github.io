@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npxabnsnfns10111000101" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npxabnsnfns10111010101" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
   <layouts>
-    <layout name="npnxnanbsnfns10111000101" font="Raleway" controllayout="npnxnanbsnfns10111000101" colorscheme="npxabnsnfns10111000101" string_table="npxabnsnfns10111000101" />
-    <layout name="pxabnsnfns10111000101" font="Raleway" controllayout="pxabnsnfns10111000101" colorscheme="npxabnsnfns10111000101" string_table="npxabnsnfns10111000101" />
-    <layout name="npxnabnsnfns10111000101" font="Raleway" controllayout="npxnabnsnfns10111000101" colorscheme="npxabnsnfns10111000101" string_table="npxabnsnfns10111000101" />
-    <layout name="npnxnanbnsnfns10111000101" font="Raleway" controllayout="npnxnanbnsnfns10111000101" colorscheme="npxabnsnfns10111000101" string_table="npxabnsnfns10111000101" />
-    <layout name="pxabnsnfns10111000100" font="Raleway" controllayout="pxabnsnfns10111000100" colorscheme="npxabnsnfns10111000101" string_table="npxabnsnfns10111000101" />
-    <layout name="npxabnsnfns10111000101" font="Raleway" controllayout="npxabnsnfns10111000101" colorscheme="npxabnsnfns10111000101" string_table="npxabnsnfns10111000101" />
-    <layout name="npnxanbnsnfns10111000101" font="Raleway" controllayout="npnxanbnsnfns10111000101" colorscheme="npxabnsnfns10111000101" string_table="npxabnsnfns10111000101" />
+    <layout name="npnxnanbsnfns10111010101" font="Raleway" controllayout="npnxnanbsnfns10111010101" colorscheme="npxabnsnfns10111010101" string_table="npxabnsnfns10111010101" />
+    <layout name="pxabnsnfns10111010101" font="Raleway" controllayout="pxabnsnfns10111010101" colorscheme="npxabnsnfns10111010101" string_table="npxabnsnfns10111010101" />
+    <layout name="npxnabnsnfns10111010101" font="Raleway" controllayout="npxnabnsnfns10111010101" colorscheme="npxabnsnfns10111010101" string_table="npxabnsnfns10111010101" />
+    <layout name="npnxnanbnsnfns10111010101" font="Raleway" controllayout="npnxnanbnsnfns10111010101" colorscheme="npxabnsnfns10111010101" string_table="npxabnsnfns10111010101" />
+    <layout name="pxabnsnfns10111010100" font="Raleway" controllayout="pxabnsnfns10111010100" colorscheme="npxabnsnfns10111010101" string_table="npxabnsnfns10111010101" />
+    <layout name="npxabnsnfns10111010101" font="Raleway" controllayout="npxabnsnfns10111010101" colorscheme="npxabnsnfns10111010101" string_table="npxabnsnfns10111010101" />
+    <layout name="npnxanbnsnfns10111010101" font="Raleway" controllayout="npnxanbnsnfns10111010101" colorscheme="npxabnsnfns10111010101" string_table="npxabnsnfns10111010101" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -31,7 +31,7 @@
             <listitems>
               <listitem name="resources" value="false" group="linkright" />
               <listitem name="outline" value="true" group="sidebar" />
-              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="glossary" value="true" group="sidebar" />
               <listitem name="transcript" value="false" group="sidebar" />
             </listitems>
           </optionlist>
@@ -91,7 +91,7 @@
     </optiongroups>
   </control_options>
   <control_layouts>
-    <control_layout name="npnxnanbsnfns10111000101">
+    <control_layout name="npnxnanbsnfns10111010101">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
@@ -105,7 +105,7 @@
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
       <control name="resources" enabled="false" />
-      <control name="glossary" enabled="false" />
+      <control name="glossary" enabled="true" />
       <control name="transcript" enabled="false" />
       <control name="outline" enabled="true">
         <controls>
@@ -114,7 +114,7 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns10111000101">
+    <control_layout name="pxabnsnfns10111010101">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
@@ -128,7 +128,7 @@
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
       <control name="resources" enabled="false" />
-      <control name="glossary" enabled="false" />
+      <control name="glossary" enabled="true" />
       <control name="transcript" enabled="false" />
       <control name="outline" enabled="true">
         <controls>
@@ -137,7 +137,7 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npxnabnsnfns10111000101">
+    <control_layout name="npxnabnsnfns10111010101">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
@@ -151,7 +151,7 @@
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
       <control name="resources" enabled="false" />
-      <control name="glossary" enabled="false" />
+      <control name="glossary" enabled="true" />
       <control name="transcript" enabled="false" />
       <control name="outline" enabled="true">
         <controls>
@@ -160,7 +160,7 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npnxnanbnsnfns10111000101">
+    <control_layout name="npnxnanbnsnfns10111010101">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
@@ -174,7 +174,7 @@
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
       <control name="resources" enabled="false" />
-      <control name="glossary" enabled="false" />
+      <control name="glossary" enabled="true" />
       <control name="transcript" enabled="false" />
       <control name="outline" enabled="true">
         <controls>
@@ -183,7 +183,7 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns10111000100">
+    <control_layout name="pxabnsnfns10111010100">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
@@ -197,7 +197,7 @@
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
       <control name="resources" enabled="false" />
-      <control name="glossary" enabled="false" />
+      <control name="glossary" enabled="true" />
       <control name="transcript" enabled="false" />
       <control name="outline" enabled="true">
         <controls>
@@ -206,7 +206,7 @@
       </control>
       <control name="close_btn" enabled="false" />
     </control_layout>
-    <control_layout name="npxabnsnfns10111000101">
+    <control_layout name="npxabnsnfns10111010101">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
@@ -220,7 +220,7 @@
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
       <control name="resources" enabled="false" />
-      <control name="glossary" enabled="false" />
+      <control name="glossary" enabled="true" />
       <control name="transcript" enabled="false" />
       <control name="outline" enabled="true">
         <controls>
@@ -229,7 +229,7 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npnxanbnsnfns10111000101">
+    <control_layout name="npnxanbnsnfns10111010101">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
@@ -243,7 +243,7 @@
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
       <control name="resources" enabled="false" />
-      <control name="glossary" enabled="false" />
+      <control name="glossary" enabled="true" />
       <control name="transcript" enabled="false" />
       <control name="outline" enabled="true">
         <controls>
@@ -254,7 +254,7 @@
     </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="npxabnsnfns10111000101">
+    <colorscheme name="npxabnsnfns10111010101">
       <color_group name="accessibility">
         <group_colors>
           <color name="focus_rect">
@@ -1171,62 +1171,62 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="npxabnsnfns10111000101">
-      <string id="acc_active">activo</string>
-      <string id="acc_closed_captions">Subtítulos cerrados. Presiona la barra de espacio para activar y desactivar los subtítulos.</string>
-      <string id="acc_definition">definición</string>
-      <string id="acc_finish">finalizar</string>
-      <string id="acc_next">siguiente</string>
-      <string id="acc_pause">pausa</string>
-      <string id="acc_play">Reproducir</string>
-      <string id="acc_previous">anterior</string>
-      <string id="acc_replay">repetición</string>
-      <string id="acc_resources">los recursos</string>
-      <string id="acc_search_input">búsqueda</string>
-      <string id="acc_skipnavigation">Volver a la diapositiva</string>
-      <string id="acc_submit">presentar</string>
-      <string id="acc_submitall">enviar todo</string>
-      <string id="acc_volume">volumen</string>
-      <string id="action">Acción</string>
-      <string id="bio">Biografía</string>
-      <string id="check_include">De verificación para incluir</string>
-      <string id="clear">Borrar y volver al menú</string>
-      <string id="close">Cerrar</string>
-      <string id="closed_captions">Subtítulos</string>
-      <string id="continue">Continuar</string>
-      <string id="continueresponsive">Continuar</string>
-      <string id="definition">Definición</string>
-      <string id="desktop_start">Comenzar el curso</string>
-      <string id="disabled_orientation">Rote el dispositivo</string>
-      <string id="exit">Salir</string>
-      <string id="filter">Filtro</string>
-      <string id="finish">FINALIZAR</string>
-      <string id="glossary">Glosario</string>
-      <string id="keyboardshortcuts">Atajos de teclado</string>
-      <string id="mobile_start">Comenzar el curso</string>
+    <string_table name="npxabnsnfns10111010101">
       <string id="more_info">Más información</string>
-      <string id="next">SIG</string>
-      <string id="outline">Menú</string>
-      <string id="prev">ANT</string>
-      <string id="question_list">Lista de preguntas</string>
-      <string id="resources">Recursos</string>
-      <string id="restart">Reiniciar</string>
-      <string id="resume">Continuar</string>
-      <string id="search">Buscar ...</string>
-      <string id="search_in">Buscar en:</string>
-      <string id="search_results">Resultados de la búsqueda</string>
-      <string id="search_toggle">Buscar</string>
-      <string id="send_an_email">Enviar correo electrónico</string>
+      <string id="bio">Biografía</string>
+      <string id="togglezoom">Alternar los modos de zoom</string>
+      <string id="action">Acción</string>
       <string id="shortcut">Atajo</string>
       <string id="shortcuthelp">Listar los atajos de teclado</string>
-      <string id="sidebar_toggle">Mostrar/ocultar barra lateral</string>
-      <string id="slide_text_chk">Texto Diapositiva</string>
+      <string id="keyboardshortcuts">Atajos de teclado</string>
+      <string id="prev">ANT</string>
+      <string id="acc_previous">anterior</string>
+      <string id="clear">Borrar y volver al menú</string>
+      <string id="close">Cerrar</string>
+      <string id="continue">Continuar</string>
+      <string id="continueresponsive">Continuar</string>
       <string id="submit">ENVIAR</string>
+      <string id="acc_submit">presentar</string>
       <string id="submitall">ENVIAR TODO</string>
+      <string id="acc_submitall">enviar todo</string>
+      <string id="filter">Filtro</string>
+      <string id="acc_finish">finalizar</string>
+      <string id="acc_pause">pausa</string>
+      <string id="restart">Reiniciar</string>
+      <string id="acc_replay">repetición</string>
+      <string id="acc_play">Reproducir</string>
+      <string id="next">SIG</string>
+      <string id="acc_next">siguiente</string>
+      <string id="finish">FINALIZAR</string>
+      <string id="acc_volume">volumen</string>
+      <string id="acc_definition">definición</string>
+      <string id="definition">Definición</string>
+      <string id="search_results">Resultados de la búsqueda</string>
       <string id="terms">Condiciones</string>
-      <string id="togglezoom">Alternar los modos de zoom</string>
-      <string id="transcript">Notas</string>
+      <string id="search_in">Buscar en:</string>
+      <string id="send_an_email">Enviar correo electrónico</string>
       <string id="transcript_chk">Notas</string>
+      <string id="slide_text_chk">Texto Diapositiva</string>
+      <string id="search">Buscar ...</string>
+      <string id="desktop_start">Comenzar el curso</string>
+      <string id="mobile_start">Comenzar el curso</string>
+      <string id="acc_search_input">búsqueda</string>
+      <string id="sidebar_toggle">Mostrar/ocultar barra lateral</string>
+      <string id="search_toggle">Buscar</string>
+      <string id="question_list">Lista de preguntas</string>
+      <string id="check_include">De verificación para incluir</string>
+      <string id="disabled_orientation">Rote el dispositivo</string>
+      <string id="closed_captions">Subtítulos</string>
+      <string id="glossary">Glosario</string>
+      <string id="outline">Menú</string>
+      <string id="transcript">Notas</string>
+      <string id="resources">Recursos</string>
+      <string id="acc_resources">los recursos</string>
+      <string id="exit">Salir</string>
+      <string id="resume">Continuar</string>
+      <string id="acc_skipnavigation">Volver a la diapositiva</string>
+      <string id="acc_closed_captions">Subtítulos cerrados. Presiona la barra de espacio para activar y desactivar los subtítulos.</string>
+      <string id="acc_active">activo</string>
     </string_table>
   </string_tables>
   <fonts>
@@ -1236,12 +1236,17 @@
         <file bold="false" italic="false" />
       </files>
     </font>
+    <font name="Arial">
+      <files>
+        <file bold="false" italic="false" />
+      </files>
+    </font>
   </fonts>
   <sounds enabled="true" />
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6ng2xZVodgV.5YM4jnEnFJ2" displaytext="Bienvenida" expand="true" type="slide">
+        <slidelink slideid="_player.6ng2xZVodgV.5YM4jnEnFJ2" displaytext="Bienvenida" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.6ng2xZVodgV.6FGWoAXn2Kg" displaytext="Objetivo" expand="false" type="slide" />
             <slidelink slideid="_player.6ng2xZVodgV.64wUTLtSG7F" displaytext="Introducción" expand="false" type="slide" />
@@ -1264,7 +1269,7 @@
             <slidelink slideid="_player.6XyF8uypmKg.5ymMyRSeQGL" displaytext="Intervención en la situación de conflicto" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6LTsMllXQf5.5wOKk9mmXfF" displaytext="Actividades" expand="true" type="slide">
+        <slidelink slideid="_player.6LTsMllXQf5.5wOKk9mmXfF" displaytext="Actividades" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.6LTsMllXQf5.6AMgYWUUNJv" displaytext="Actividad 1" expand="false" type="slide" />
             <slidelink slideid="_player.6LTsMllXQf5.5cjT53K7gjf" displaytext="Actividad 2" expand="false" type="slide" />
@@ -1274,7 +1279,7 @@
             <slidelink slideid="_player.6LTsMllXQf5.5tDJrtWS17X" displaytext="Actividad 6" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5xgCnbU2Nzy.5c06GePpKDA" displaytext="Para finalizar" expand="true" type="slide">
+        <slidelink slideid="_player.5xgCnbU2Nzy.5c06GePpKDA" displaytext="Para finalizar" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.5xgCnbU2Nzy.60zJDPHnr7L" displaytext="Resumen" expand="false" type="slide" />
             <slidelink slideid="_player.5xgCnbU2Nzy.6kTrBVOwafx" displaytext="Referencias" expand="false" type="slide" />
@@ -1286,5 +1291,15 @@
   </nav_data>
   <resource_data description="" />
   <transcript_data />
-  <glossary_data />
+  <glossary_data>
+    <terms>
+      <term title="Conflicto">Situación compleja en donde se enfrentan individuos, grupos de personas, organizaciones o naciones. Es el proceso en el que una de las partes percibe que la otra se opone o afecta de forma negativa sus intereses.</term>
+      <term title="Conflicto interpersonal">Situación de desencuentro o confrontación entre dos o más partes, con intereses contrapuestos.</term>
+      <term title="Conflicto intrapersonal">Situación de crisis interna que genera en la persona malestar emocional, estado de confusión y dificultad para responder de manera adecuada al entorno. </term>
+      <term title="Emoción">Representación de una experiencia psicológica, que se presenta de forma involuntaria, y que permite a la persona dar un valor al acontecimiento vivido; de forma que ésta pueda adaptarse a su entorno.</term>
+      <term title="Psicología de la salud">Es una rama de la psicología que estudia los procesos psicológicos asociados a la salud y la enfermedad, empleando los hallazgos de las teorías psicológicas y las investigaciones en el área para promover la salud.</term>
+      <term title="Psicosomático">Interacción de la mente y el cuerpo, relacionada a procesos de enfermedad. Síntoma físico que se considera producto de padecimiento mental.</term>
+      <term title="Salud">Es el estado de completo bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades.</term>
+    </terms>
+  </glossary_data>
 </bwFrame>
