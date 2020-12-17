@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns10111010101" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns10111010101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
   <layouts>
     <layout name="npnxnanbsnfns10111010101" font="Arial" controllayout="npnxnanbsnfns10111010101" colorscheme="pxabnsnfns10111010101" string_table="pxabnsnfns10111010101" />
     <layout name="pxabnsnfns10111010101" font="Arial" controllayout="pxabnsnfns10111010101" colorscheme="pxabnsnfns10111010101" string_table="pxabnsnfns10111010101" />
@@ -1177,11 +1177,12 @@
       <string id="next_shortcut">~Neχţ~ Sli~de</string>
       <string id="playpause_shortcut">~Plaý~ / P~aüše</string>
       <string id="previous_shortcut">~Přeѵ~iøüš~ Sli~de</string>
+      <string id="replay_shortcut">~Reþl~aý S~lide</string>
       <string id="shortcut">Atajo</string>
       <string id="submit_shortcut">~Sübӎ~iţ S~lide</string>
-      <string id="togglezoom">Alternar los modos de zoom</string>
       <string id="acctext_shortcut">~Tøgg~le a~cceš~šibl~e ţe~χţ</string>
       <string id="closedcaptions_shortcut">~Tøgg~le c~løše~d ca~þţiø~ñš</string>
+      <string id="togglezoom">Alternar los modos de zoom</string>
       <string id="outline">Menú</string>
       <string id="disabled_orientation">Rote el dispositivo</string>
       <string id="mute_tip">~Müţe</string>
@@ -1202,7 +1203,6 @@
       <string id="acc_previous">anterior</string>
       <string id="previous_slide_tip">~Přeѵ~iøüš~ Sli~de</string>
       <string id="question_list">Lista de preguntas</string>
-      <string id="replay_shortcut">~Reþl~aý S~lide</string>
       <string id="replay_tip">~Reþl~aý S~lide</string>
       <string id="acc_replay">repetición</string>
       <string id="resources">Recursos</string>
