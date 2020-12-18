@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://6g4ozaySA5T_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">M6U1</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5YM4jnEnFJ2" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Conociendo el Rugby</name>
+			<description lang="und">Conociendo el Rugby</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6FGWoAXn2Kg" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Objetivo</name>
+			<description lang="und">Objetivo</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6Sfov3Z4iRZ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Objetivo</name>
+			<description lang="und">Objetivo</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5rDMvYi3mEv" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introducción</name>
+			<description lang="und">Introducción</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/64wUTLtSG7F" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introducción</name>
+			<description lang="und">Introducción</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/64KdC92MZdA" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introducción</name>
+			<description lang="und">Introducción</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6GnyLENJH8F" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Get Into Rugby: definición y objetivo</name>
+			<description lang="und">Get Into Rugby: definición y objetivo</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6f0d2Eb8nrP" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Get Into Rugby: etapas</name>
+			<description lang="und">Get Into Rugby: etapas</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5wOKk9mmXfF" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad</name>
+			<description lang="und">Actividad</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6rJOOIrdShc" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad 1</name>
+			<description lang="und">Actividad 1</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6rJOOIrdShc/67u9KIuwbur" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Arrastra a cada espacio en blanco la palabra que corresponda para que cobre sentido correcto.</name>
+			<description lang="und">Arrastra a cada espacio en blanco la palabra que corresponda para que cobre sentido correcto.</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_6PtItGIoE8h[.]choice_5iRAyIDME5f</correctResponsePattern>
+				<correctResponsePattern>statement_6lHRnbQfkOC[.]choice_5mGcwV0v3n7</correctResponsePattern>
+				<correctResponsePattern>statement_6DESHcS1T5i[.]choice_5gvp3Aflv66</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_6PtItGIoE8h</id>
+					<description lang="und">Rectángulo 7</description>
+				</component>
+				<component>
+					<id>statement_6lHRnbQfkOC</id>
+					<description lang="und">Rectángulo 8</description>
+				</component>
+				<component>
+					<id>statement_6DESHcS1T5i</id>
+					<description lang="und">Rectángulo 9</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_5iRAyIDME5f</id>
+					<description lang="und">Cuadro de texto 10 - Get Into Rugby </description>
+				</component>
+				<component>
+					<id>choice_5mGcwV0v3n7</id>
+					<description lang="und">Cuadro de texto 9 - Probar, Jugar y Seguir </description>
+				</component>
+				<component>
+					<id>choice_5gvp3Aflv66</id>
+					<description lang="und">Cuadro de texto 7 - Tackle</description>
+				</component>
+				<component>
+					<id>choice_6W6Q88YdP6t</id>
+					<description lang="und">Cuadro de texto 8 - Tag rugby </description>
+				</component>
+				<component>
+					<id>choice_5y0fLDJLjEg</id>
+					<description lang="und">Cuadro de texto 11 - World Rugby </description>
+				</component>
+			</target>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5duAkbx3ueq" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad 2</name>
+			<description lang="und">Actividad 2</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5duAkbx3ueq/6CqzgTxYc51" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">El Rugby es el deporte que se practica entre dos equipos de quince jugadores:</name>
+			<description lang="und">El Rugby es el deporte que se practica entre dos equipos de quince jugadores:</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5nAg0U74EUO</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6evrWbZeKbP</id>
+					<description lang="und">Tratan de llevar un balón ovalado al bando contrario para lograr el gol.</description>
+				</component>
+				<component>
+					<id>choice_5sTTrVq5Msl</id>
+					<description lang="und"> Tratan de llevar el balón al campo del equipo contrario.</description>
+				</component>
+				<component>
+					<id>choice_5nAg0U74EUO</id>
+					<description lang="und">Tratan de llevar un balón ovalado más allá de una línea de meta del equipo contrario o de pasarlo por la portería, para hacer el try.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6DiAPfoWewz" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad 3</name>
+			<description lang="und">Actividad 3</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6DiAPfoWewz/6gclsIMZvEM" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">El Rugby es un deporte que ayuda a desarrollar:</name>
+			<description lang="und">El Rugby es un deporte que ayuda a desarrollar:</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6HEvKrpZ84E</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6HEvKrpZ84E</id>
+					<description lang="und">Las habilidades sociales.</description>
+				</component>
+				<component>
+					<id>choice_5d7YH8oTlfO</id>
+					<description lang="und">Las habilidades económicas.</description>
+				</component>
+				<component>
+					<id>choice_5UyAGnI56w9</id>
+					<description lang="und">Las habilidades políticas.</description>
+				</component>
+				<component>
+					<id>choice_6AJtXQL3Tni</id>
+					<description lang="und">Las habilidades mentales.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5uP81Bwm3Dr" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad 4</name>
+			<description lang="und">Actividad 4</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5uP81Bwm3Dr/6UE2Fpejjdt" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Arrastra cada concepto según los valores centrales del rugby que le corresponda.</name>
+			<description lang="und">Arrastra cada concepto según los valores centrales del rugby que le corresponda.</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_5qQaux4SmQO[.]choice_6oxCTCHMCf5</correctResponsePattern>
+				<correctResponsePattern>statement_6KMarqlPv71[.]choice_5uhtKb9Ke7n</correctResponsePattern>
+				<correctResponsePattern>statement_6EiA9M8ZNIN[.]choice_6eg5Pjz7yDI</correctResponsePattern>
+				<correctResponsePattern>statement_6DoLjJW9de2[.]choice_6mzx5k1wLi6</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_5qQaux4SmQO</id>
+					<description lang="und">Rectángulo 11</description>
+				</component>
+				<component>
+					<id>statement_6KMarqlPv71</id>
+					<description lang="und">Rectángulo 12</description>
+				</component>
+				<component>
+					<id>statement_6EiA9M8ZNIN</id>
+					<description lang="und">Rectángulo 13</description>
+				</component>
+				<component>
+					<id>statement_6DoLjJW9de2</id>
+					<description lang="und">Rectángulo 14</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_6oxCTCHMCf5</id>
+					<description lang="und">Cuadro de texto 6 - Es central para la estructura del Rugby y se genera mediante la honestidad y el juego limpio.</description>
+				</component>
+				<component>
+					<id>choice_5uhtKb9Ke7n</id>
+					<description lang="und">Cuadro de texto 7 - Genera entusiasmo, adhesión emocional,  sentido de pertenencia, empatía, entusiasmo y vinculación.</description>
+				</component>
+				<component>
+					<id>choice_6eg5Pjz7yDI</id>
+					<description lang="und">Cuadro de texto 8 - Proporciona un espíritu unificado que conduce a la amaradería, trabajo en equipo y lealtad, sin importar colores, razas o pensamientos.</description>
+				</component>
+				<component>
+					<id>choice_6mzx5k1wLi6</id>
+					<description lang="und">Cuadro de texto 9 - Los compañeros, oponentes, oficiales de partidos como el árbitro, que es la ley en el campo y sus decisiones son incuestionables.</description>
+				</component>
+			</target>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5c06GePpKDA" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Para finalizar</name>
+			<description lang="und">Para finalizar</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/60zJDPHnr7L" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Resumen</name>
+			<description lang="und">Resumen</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5dvEkiiEiIA" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Referencias</name>
+			<description lang="und">Referencias</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6ji5FAJj03m" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Cierre</name>
+			<description lang="und">Cierre</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6pd169Nq11F" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Las leyes de Simple Tag Rugby</name>
+			<description lang="und">Las leyes de Simple Tag Rugby</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/6IQVdSy8euN" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Valores centrales del rugby</name>
+			<description lang="und">Valores centrales del rugby</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5nbQkaNfdds" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Conocimiento del juego de rugby.</name>
+			<description lang="und">Conocimiento del juego de rugby.</description>
+		</activity>
+		<activity id="http://6g4ozaySA5T_course_id/5m9zzfNYmO0" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">¿Por qué jugar rugby? Práctica deportiva en campo.</name>
+			<description lang="und">¿Por qué jugar rugby? Práctica deportiva en campo.</description>
+		</activity>
+	</activities>
+</tincan>
