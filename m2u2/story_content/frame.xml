@@ -1149,10 +1149,10 @@
   </colorschemes>
   <string_tables>
     <string_table name="pxabnsnfns10111000101">
-      <string id="three_image_of">de</string>
       <string id="three_image_items">ítems</string>
-      <string id="three_image_item">ítem</string>
       <string id="three_image_viewed">vistos</string>
+      <string id="three_image_of">de</string>
+      <string id="three_image_item">ítem</string>
       <string id="accessible_text">~Acce~ššib~le ţ~eχţ</string>
       <string id="acc_active">activo</string>
       <string id="alt_key">~Alţ</string>
@@ -1174,6 +1174,7 @@
       <string id="acc_definition">definición</string>
       <string id="glossary">Glosario</string>
       <string id="terms">Condiciones</string>
+      <string id="keyboardshortcuts_lower">Atajos de teclado</string>
       <string id="action">Acción</string>
       <string id="keyboardshortcuts">Atajos de teclado</string>
       <string id="shortcuthelp">Listar los atajos de teclado</string>
@@ -1184,7 +1185,6 @@
       <string id="replay_shortcut">~Reþl~aý S~lide</string>
       <string id="shortcut">Atajo</string>
       <string id="submit_shortcut">~Sübӎ~iţ S~lide</string>
-      <string id="keyboardshortcuts_lower">Atajos de teclado</string>
       <string id="acctext_shortcut">~Tøgg~le a~cceš~šibl~e ţe~χţ</string>
       <string id="closedcaptions_shortcut">~Tøgg~le c~løše~d ca~þţiø~ñš</string>
       <string id="togglezoom">Alternar los modos de zoom</string>
@@ -1251,13 +1251,13 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6ng2xZVodgV.5YM4jnEnFJ2" displaytext="Bienvenida" expand="true" type="slide">
+        <slidelink slideid="_player.6ng2xZVodgV.5YM4jnEnFJ2" displaytext="Bienvenida" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.6ng2xZVodgV.6Sfov3Z4iRZ" displaytext="Objetivos" expand="false" type="slide" />
             <slidelink slideid="_player.6ng2xZVodgV.5rDMvYi3mEv" displaytext="Introducción" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6XyF8uypmKg.6YVjw4gibyF" displaytext="Enfoque restaurativo" expand="true" type="slide">
+        <slidelink slideid="_player.6XyF8uypmKg.6YVjw4gibyF" displaytext="Enfoque restaurativo" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.6XyF8uypmKg.6MI1aCxbiKn" displaytext="Aproximación al delito" expand="false" type="slide" />
             <slidelink slideid="_player.6XyF8uypmKg.690do4ULJym" displaytext="Aspectos" expand="false" type="slide" />
@@ -1265,7 +1265,7 @@
         </slidelink>
         <slidelink slideid="_player.622ArtsV4eI.5YSKElGuCZd" displaytext="Interpretación de la víctima, el ofensor, la familia y la comunidad afectada por la falta" expand="false" type="slide" />
         <slidelink slideid="" displaytext="Manejo y tipos de reparación. Voluntariedad de la reparación" expand="true" type="slide" />
-        <slidelink slideid="_player.6MV9PtqSCJR.5XgjnvmxLjQ" displaytext="Actividades" expand="true" type="slide">
+        <slidelink slideid="_player.6MV9PtqSCJR.5XgjnvmxLjQ" displaytext="Actividades" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.6MV9PtqSCJR.6KREmKThqLJ" displaytext="Actividad 1" expand="false" type="slide" />
             <slidelink slideid="_player.6MV9PtqSCJR.6KnO9S5HsEK" displaytext="Actividad 2" expand="false" type="slide" />
@@ -1273,7 +1273,7 @@
             <slidelink slideid="_player.6MV9PtqSCJR.6ArInQDbjP3" displaytext="Actividad 4" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5ni904175Gf.6bLRzLvcdJ1" displaytext="Para finalizar" expand="true" type="slide">
+        <slidelink slideid="_player.5ni904175Gf.6bLRzLvcdJ1" displaytext="Para finalizar" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.5ni904175Gf.6S5R69DU25F" displaytext="Resumen" expand="false" type="slide" />
             <slidelink slideid="_player.5ni904175Gf.6EkZZXqKH6R" displaytext="Referencias" expand="false" type="slide" />

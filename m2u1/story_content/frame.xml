@@ -1149,6 +1149,10 @@
   </colorschemes>
   <string_tables>
     <string_table name="pxabnsnfns10111010101">
+      <string id="three_image_items">ítems</string>
+      <string id="three_image_viewed">vistos</string>
+      <string id="three_image_of">de</string>
+      <string id="three_image_item">ítem</string>
       <string id="accessible_text">~Acce~ššib~le ţ~eχţ</string>
       <string id="acc_active">activo</string>
       <string id="alt_key">~Alţ</string>
@@ -1170,6 +1174,7 @@
       <string id="acc_definition">definición</string>
       <string id="glossary">Glosario</string>
       <string id="terms">Condiciones</string>
+      <string id="keyboardshortcuts_lower">Atajos de teclado</string>
       <string id="action">Acción</string>
       <string id="keyboardshortcuts">Atajos de teclado</string>
       <string id="shortcuthelp">Listar los atajos de teclado</string>
@@ -1209,11 +1214,13 @@
       <string id="acc_resources">los recursos</string>
       <string id="restart">Reiniciar</string>
       <string id="resume">Continuar</string>
+      <string id="acc_locked">bloqueado</string>
       <string id="acc_search_input">búsqueda</string>
       <string id="search_toggle">Buscar</string>
       <string id="sidebar_toggle">Mostrar/ocultar barra lateral</string>
       <string id="desktop_start">Comenzar el curso</string>
       <string id="mobile_start">Comenzar el curso</string>
+      <string id="acc_visited">visitado</string>
       <string id="search">Buscar ...</string>
       <string id="search_in">Buscar en:</string>
       <string id="search_results">Resultados de la búsqueda</string>
